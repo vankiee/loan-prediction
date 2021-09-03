@@ -10,8 +10,8 @@ Predict if loans acquired by Fannie Mae will go into foreclosure or not. The com
 - scipy
 
 ## Steps
-- ```mkdir data``` for downloaded datasets and ```mkdir processed``` for processed datasets
-- Download dataset [here](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html) 
-- Run ```python assemble.py```
-- Run ```python annotate.py```
-- Run ```python predict.py```
+1. ```mkdir data``` for downloaded datasets and ```mkdir processed``` for processed datasets
+2. Download dataset [here](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html) 
+3. Run ```python assemble.py```
+4. Run ```python annotate.py```
+5. Run ```python predict.py```
